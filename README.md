@@ -1,2 +1,2 @@
 # Tribute-to-Sarah-Kay
-A webpage introducing the poet Sarah Kay.
+A webpage introducing Sarah Kay, a spoken word poet.
